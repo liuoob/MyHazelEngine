@@ -3,6 +3,7 @@
 // For use by Hazel applications
 #include <iostream>
 
+#include "Hazel/Log.h"
 #include "Hazel/Core.h"
 #include "Hazel/Application.h"
 
